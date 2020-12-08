@@ -1,7 +1,7 @@
 # SierraWJ
 ### Hi there 👋
 
-- 🔭 I’m currently working on Personal Team.
+- 🔭 I’m currently working on my bachelor's degree.
 - 🌱 I’m currently learning ML & CV.
 - 📫 How to reach me: wujins58@gmail.com or SierraWJ@kakao.com
 
