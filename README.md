@@ -1,4 +1,4 @@
-# SierraWJ
+# SierraSon AKA 浩山 孫扜溱
 ### Hi there 👋
 
 - 🔭 I’m currently working on my bachelor's degree.
