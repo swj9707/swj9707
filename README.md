@@ -1,5 +1,5 @@
 # Hello! 
-### Introduce
+### About me
 - Name : WOOJIN SON (SIERRA SON)
 - Birthday : 1997.07.15
 
