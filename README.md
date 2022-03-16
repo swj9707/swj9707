@@ -1,7 +1,7 @@
 # Hello! 
 
 ### Contact
-<a href="mailto:﻿"wujins58@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:wujins58@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/sierra_9707/" target="_blank"><img src="https://img.shields.io/badge/instagram-3E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sierra_9707)](https://solved.ac/sierra_9707)
