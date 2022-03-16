@@ -1,4 +1,7 @@
 # Hello! 
+### Introduce
+- Name : WOOJIN SON (SIERRA SON)
+- Birthday : 1997.07.15
 
 ### Contact
 <a href="mailto:wujins58@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-FFCD00?style=flat-square&logo=gmail&logoColor=white"/></a>
