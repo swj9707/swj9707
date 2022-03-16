@@ -6,6 +6,7 @@
 ### Blog
 <a href="https://www.instagram.com/sierra_9707/" target="_blank"><img src="https://img.shields.io/badge/instagram-3E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sierra9707" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=20220106-대학-생활-회고록)](https://github.com/eungyeole/velog-readme-stats)
 ----
 ### Github stats
