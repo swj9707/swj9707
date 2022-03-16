@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning Machine Learning & Computer Vision.
 - 📫 How to reach me: wujins58@gmail.com or sierraWJ@kakao.com
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sierra_9707)](https://solved.ac/sierra_9707)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sierra_9707)](https://solved.ac/sierra_9707)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SierraSon97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SierraSon97)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tech Stacks
