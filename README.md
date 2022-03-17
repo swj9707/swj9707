@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/sierra_9707/" target="_blank"><img src="https://img.shields.io/badge/instagram-3E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sierra9707" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=20220106-대학-생활-회고록)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=20220106-대학-생활-회고록)](https://velog.io/@sierra9707/20220106-%EB%8C%80%ED%95%99-%EC%83%9D%ED%99%9C-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 ----
 ### Github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SierraSon97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
