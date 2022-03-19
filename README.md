@@ -19,6 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SierraSon97)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sierra_9707)](https://solved.ac/sierra_9707)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=SierraSon97)
+
 ### Tech Stacks
 #### Language
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=#512BD4&logoColor=white"/></a>
