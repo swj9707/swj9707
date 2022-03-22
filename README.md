@@ -27,10 +27,14 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=#512BD4&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=#512BD4&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=#512BD4&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=#512BD4&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=#512BD4&logoColor=white"/></a>
+
 #### Framework & Library
 <a href="" target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=#512BD4&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=#512BD4&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=#512BD4&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=#512BD4&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat&logo=#512BD4&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=#512BD4&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=#512BD4&logoColor=white"/></a>
