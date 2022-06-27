@@ -7,7 +7,6 @@
 <a href="mailto:wujins58@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-FFCD00?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="mailto:sierra_wj@kakao.com" target="_blank"><img src="https://img.shields.io/badge/kakao-EA4335?style=flat-square&logo=kakao&logoColor=white"/></a>
 
-<a href="https://honorable-alto-0cf.notion.site/Hello-368d75e6bf15498e9cbf8c3adafe2b4b" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 ### Blog
 <a href="https://www.instagram.com/s.wj97/" target="_blank"><img src="https://img.shields.io/badge/instagram-3E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sierra9707" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
