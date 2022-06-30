@@ -2,7 +2,7 @@
 ### About me
 - Name : WOOJIN SON (SIERRA SON)
 - Birthday : 1997.07.15
-
+<a href="https://water-story-3cf.notion.site/Son-Woojin-1882162635a64276b28b028a31b773d3" target="_blank"><img src="https://img.shields.io/badge/notion-3E4405F?style=flat-square&logo=notino&logoColor=white"/></a>
 ### Contact
 <a href="mailto:wujins58@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-FFCD00?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="mailto:sierra_wj@kakao.com" target="_blank"><img src="https://img.shields.io/badge/kakao-EA4335?style=flat-square&logo=kakao&logoColor=white"/></a>
