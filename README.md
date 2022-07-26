@@ -1,21 +1,24 @@
 # Hello!
-<div align="center>
+
 - Name : WOOJIN SON (SIERRA SON)
 - Birthday : 1997.07.15  
 - Notion : 
 <a href="https://honorable-alto-0cf.notion.site/Son-Woojin-74fb7fd1c3604c01ab214c296aaccd42" target="_blank"><img src="https://img.shields.io/badge/notion-3E4405F?style=flat-square&logo=notino&logoColor=white"/></a>
 ### Contact
+
 <a href="mailto:wujins58@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-FFCD00?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="mailto:sierra_wj@kakao.com" target="_blank"><img src="https://img.shields.io/badge/kakao-EA4335?style=flat-square&logo=kakao&logoColor=white"/></a>
 
 ### Blog
+
 <a href="https://www.instagram.com/s.wj97/" target="_blank"><img src="https://img.shields.io/badge/instagram-3E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sierra9707" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=20220106-대학-생활-회고록)](https://velog.io/@sierra9707/20220106-%EB%8C%80%ED%95%99-%EC%83%9D%ED%99%9C-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 ----
-</div>
+
 ### Github stats
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SierraSon97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SierraSon97)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sierra_9707)](https://solved.ac/sierra_9707)
