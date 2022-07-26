@@ -1,5 +1,5 @@
-# Hello! 
-### About me
+# Hello!
+<div align="center>
 - Name : WOOJIN SON (SIERRA SON)
 - Birthday : 1997.07.15  
 - Notion : 
@@ -14,6 +14,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=20220106-대학-생활-회고록)](https://velog.io/@sierra9707/20220106-%EB%8C%80%ED%95%99-%EC%83%9D%ED%99%9C-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 ----
+</div>
 ### Github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SierraSon97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SierraSon97)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,18 +24,26 @@
 
 ### Tech Stack
 #### Language
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=#512BD4&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=#512BD4&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=#512BD4&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=#512BD4&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=#512BD4&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=#512BD4&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=#512BD4&logoColor=white"/>
 
-#### Framework & Library
-<a href="" target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=#512BD4&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=#512BD4&logoColor=white"/></a>
+#### Server
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=#512BD4&logoColor=white"/>
+
+#### Client
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=#512BD4&logoColor=white"/>
+#### DB
+
+#### Mobile App
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=#512BD4&logoColor=white"/>
+
+#### AI
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=#512BD4&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=#512BD4&logoColor=white"/>
+
