@@ -26,7 +26,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SierraSon97)
 
-### Tech Stack
+### Tech Stacks
 #### Language
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
