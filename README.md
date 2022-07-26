@@ -27,13 +27,14 @@
 
 ### Tech Stack
 #### Language
+<div>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=#512BD4&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=#512BD4&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=#512BD4&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=#512BD4&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=#512BD4&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=#512BD4&logoColor=white"/>
-
+</div>
 #### Server
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
