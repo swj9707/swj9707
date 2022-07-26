@@ -1,6 +1,6 @@
 # Hello!
 
-- Name : WOOJIN SON (SIERRA SON)
+- Name : WOOJIN SON
 - Birthday : 1997.07.15  
 - Notion : 
 <a href="https://honorable-alto-0cf.notion.site/Son-Woojin-74fb7fd1c3604c01ab214c296aaccd42" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notino&logoColor=white"/></a>
