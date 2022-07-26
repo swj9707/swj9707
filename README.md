@@ -15,7 +15,6 @@
 <a href="https://www.instagram.com/s.wj97/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sierra9707" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=20220106-대학-생활-회고록)](https://velog.io/@sierra9707/20220106-%EB%8C%80%ED%95%99-%EC%83%9D%ED%99%9C-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 ----
 
 ### Github stats
