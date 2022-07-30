@@ -17,7 +17,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sierra9707)](https://velog.io/@eungyeole)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=Velog-[백엔드 로드맵 - Intro] Intro)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=[백엔드 로드맵 - Intro] Intro)](https://github.com/eungyeole/velog-readme-stats)
 
 ----
 
