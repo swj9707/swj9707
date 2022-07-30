@@ -15,6 +15,8 @@
 <a href="https://www.instagram.com/s.wj97/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sierra9707" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sierra9707)](https://velog.io/@eungyeole)
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sierra9707&slug=Velog-[백엔드 로드맵 - Intro] Intro)](https://github.com/eungyeole/velog-readme-stats)
 
 ----
