@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swj9707)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sierra_9707)](https://solved.ac/sierra_9707)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SierraSon97)
+![trophy](https://github-profile-trophy.vercel.app/?username=swj9707)
 
 ### Tech Stacks
 #### Language
