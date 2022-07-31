@@ -24,7 +24,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swj9707&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swj9707)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sierra_9707)](https://solved.ac/sierra_9707)
-[trophy](https://github-profile-trophy.vercel.app/?username=swj9707)
+![trophy](https://github-profile-trophy.vercel.app/?username=swj9707)
 
 ### Tech Stacks
 #### Language
