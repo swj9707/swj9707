@@ -89,6 +89,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 </div>
 
 #### Mobile App
