@@ -3,7 +3,7 @@
 - Name : WOOJIN SON
 - Birthday : 1997.07.15  
 - Notion : 
-<a href="https://honorable-alto-0cf.notion.site/Son-Woojin-74fb7fd1c3604c01ab214c296aaccd42" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://water-story-3cf.notion.site/Son-Woojin-1882162635a64276b28b028a31b773d3" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 ### Contact
 
