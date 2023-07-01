@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
 
-- DevOps & Monitoring : 
+- DevOps : 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
