@@ -10,7 +10,7 @@
 <a href="mailto:wujins58@gmail.com" target="_blank">wujins58@gmail.com</a>
 
 ### 📔 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sierra9707)](https://velog.io/@sierra9707)
+[기술블로그](https://swj-techblog.vercel.app)
 
 ----
 
