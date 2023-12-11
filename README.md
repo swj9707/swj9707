@@ -54,6 +54,7 @@
 
 - Frontend : 
    <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 - Cloud : 
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
