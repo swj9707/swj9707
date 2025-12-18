@@ -16,7 +16,7 @@
     "blog" : "https://swj-techblog.vercel.app",
     "mail" : "wujins58@gmail.com"
     "techStacks" : {
-        "language" : ["Java", "kotlin", "Javascript/Typescript" ],
+        "language" : ["Java", "kotlin", "Javascript/Typescript", "Python", "Go" ],
         "backEnd" : ["Spring"],
         "frontEnd" : ["Next.js", "Vue.js"],
         "devOps" : ["Docker", "Jenkins", "github actions", "GCP", "AWS"],
